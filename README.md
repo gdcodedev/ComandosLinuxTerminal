@@ -25,9 +25,9 @@
 
 ## Atalhos do Terminal Linux
 
-* Ctrl + c " Cancela o comando atual em funcionamento.
+* Ctrl + C " Cancela o comando atual em funcionamento.
 
-* Ctrl + z " Pausa o comando atual, em primeiuro plano ou segundo plano.
+* Ctrl + Z " Pausa o comando atual, em primeiuro plano ou segundo plano.
 
 * Ctrl + D " Faz logout da sessão atual.
 
