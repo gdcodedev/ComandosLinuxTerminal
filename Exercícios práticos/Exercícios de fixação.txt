@@ -1,0 +1,17 @@
+Exercícios Práticos de Revisão
+ 
+- [x] Abra o Terminal.
+- [x] Crie uma Pasta de nome Exercícios dentro da Pasta Documents.
+- [x] Mova esta Pasta para o diretório Pessoal.
+- [x] Crie um arquivo vazio de nome teste1.txt dentro da Pasta Exercícios.
+- [x] Renomeie este Arquivo como teste2.txt
+- [x] Crie uma cópia deste arquivo na Pasta Downloads.
+- [x] Exiba todos os comandos digitados no Terminal.
+- [x] Execute a ajuda do comando ls.
+- [x] Pare a execução do manual.
+- [x] Execute o manual do comando mv.
+- [x] Saia do manual utilizando a tecla  Q.
+- [x] Exclua a pasta Exercícios.
+- [x] Exclua o arquivo teste2.txt 
+- [x] Limpe o terminal.
+- [x] Utilize o comando **exit** para sair do terminal.
