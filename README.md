@@ -1,6 +1,10 @@
-<img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" width="90px"/>
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1/1741.png" width="144px" alt="Logo ComandosLinuxTerminal"/> 
+</p>
 
-# Comandos básicos para iniciantes Linux via Terminal :penguin:
+<h3 align="center">Comandos básicos para iniciantes Linux via Terminal :penguin:</h1>
+
+A [logo](https://www.flaticon.com/br/icone-gratis/computador-linux_1741) desse projeto de código fonte aberto possui a licença "[Flaticon](https://www.flaticon.com)" de forma gratuita para uso pessoal e comercial com atribuição. A logo foi disponibilizada pelo [Freepik](https://br.freepik.com/) através do [Flaticon](https://www.flaticon.com). 
 
 ##### Comando utilizado para listar arquivos e diretórios
 ```ruby
