@@ -2,9 +2,19 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1/1741.png" width="144px" alt="Logo ComandosLinuxTerminal"/> 
 </p>
 
-<h3 align="center">Comandos básicos para iniciantes Linux via Terminal :penguin:</h1>
+<h3 align="center">Comandos básicos para iniciantes Linux via terminal :penguin:</h1>
+
+<details>
+<summary>Licença do projeto</summary>
 
 A [logo](https://www.flaticon.com/br/icone-gratis/computador-linux_1741) desse projeto de código fonte aberto possui a licença "[Flaticon](https://www.flaticon.com)" de forma gratuita para uso pessoal e comercial com atribuição. A logo foi disponibilizada pelo [Freepik](https://br.freepik.com/) através do [Flaticon](https://www.flaticon.com). 
+
+A licença desse projeto é [gdcodedev](https://github.com/gdcodedev)
+
+</details>
+
+<details>
+<summary>Comandos básicos para iniciantes Linux via terminal </summary>
 
 ##### Comando utilizado para listar arquivos e diretórios
 ```ruby
@@ -111,7 +121,11 @@ Exemplo prático - criar um arquivo chamado teste.txt"
 > exit
 ``` 
 
-## Atalhos do Terminal Linux
+</details>
+
+<details>
+<summary>Atalhos do Terminal Linux </summary>
+  
 - `Ctrl + C` - cancela o comando atual em funcionamento.
 - `Ctrl + Z` - pausa o comando atual, em primeiuro plano ou segundo plano.
 - `Ctrl + D` - faz logout da sessão atual.
@@ -119,9 +133,13 @@ Exemplo prático - criar um arquivo chamado teste.txt"
 - `Ctrl + U` - apaga a linha inteira.
 - `Ctrl + R` - busca um comando recente.
 - `!!` - repete o último comando.
-- `exit` - comando utilizado para fechar o terminal".
+- `exit` - comando utilizado para fechar o terminal.
 
-## Exercícios para fixação de conteúdo
+</details>
+
+<details>
+<summary> Exercícios para fixação de conteúdo </summary>
+
 - [x]  Abra o Terminal.
 - [x] Crie uma Pasta de nome Exercícios dentro da Pasta Documents.
 - [x] Mova esta Pasta para o diretório Pessoal.
@@ -137,3 +155,5 @@ Exemplo prático - criar um arquivo chamado teste.txt"
 - [x] Exclua o arquivo teste2.txt 
 - [x] Limpe o terminal.
 - [x] Utilize o comando **exit** para sair do terminal.
+
+</details>
