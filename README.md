@@ -6,16 +6,16 @@
 
 <h3 align="center">Comandos básicos para iniciantes Linux via terminal :penguin:</h1>
 
-<details>
+<details open>
 <summary>Licença do projeto</summary>
+
+A licença desse projeto é de [gdcodedev](https://github.com/gdcodedev)
 
 A [logo](https://www.flaticon.com/br/icone-gratis/computador-linux_1741) desse projeto de código fonte aberto possui a licença "[Flaticon](https://www.flaticon.com)" de forma gratuita para uso pessoal e comercial com atribuição. A logo foi disponibilizada pelo [Freepik](https://br.freepik.com/) através do [Flaticon](https://www.flaticon.com). 
 
-A licença desse projeto é [gdcodedev](https://github.com/gdcodedev)
-
 </details>
 
-<details>
+<details open>
 <summary>Comandos básicos para iniciantes Linux via terminal </summary>
 
 ##### Comando utilizado para listar arquivos e diretórios
