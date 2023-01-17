@@ -1,3 +1,5 @@
+<img src="https://cdn-icons-png.flaticon.com/512/25/25719.png" width="90px"/>
+
 # Comandos básicos para iniciantes Linux via Terminal :penguin:
 
 ##### Comando utilizado para listar arquivos e diretórios
