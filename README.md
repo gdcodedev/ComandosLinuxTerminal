@@ -1,49 +1,146 @@
-# Comandos básicos para iniciantes Linux via Terminal :penguin:
+<br/>
 
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1/1741.png" width="144px" alt="Logo ComandosLinuxTerminal"/> 
+</p>
 
+<h3 align="center">Comandos básicos para iniciantes Linux via terminal :penguin:</h1>
 
-* ls  "Comando utilizado para listar arquivos e diretórios".
-* cd "Comando utilizado para ir a um diretório ".
-* ls -l "Comando para listar diretórios com detalhes".
-* cd / "Comando para utilizado para ir a raiz do sistema".
-* cd .. "Comando utilizado para voltar a pasta anterior".
-* man "Comando para abrir o manual".
-* cd ~ "Comando utilizado para voltar a pasta pessoal".
-* history "Comando para exibir o histórico de comandos no terminal".
-* mv "Comando utilizado para mover um arquivo", **Exemplo**: mkdir Teste "Cria uma pasta chamada Teste", mv Teste Linux "irá mudar o nome da pasta criada com o nome Teste para Linux".
-* touch "Comando utilizado para criar arquivos sem conteúdos" **Exemplo**:  touch teste.txt " irá criar um arquivo chamado teste.txt".
-* cp "Comando utilizado para efetuar cópia de arquivo".
-* clear "Comando utilizado para limpar o terminal".
-* rmdir "Comando específico para remover diretórios".
-* rm "Comando utilizado para remover arquivos".
-* mv ~ "Move um diretório para o diretório pessoal".
-* rm -r "Comando para forçar a remoção de diretório".
-* --help "Comando para exibir o arquivo de ajuda".
-* exit "Comando utilizado para sair do terminal".
+<details open>
+<summary>Licença do projeto</summary>
 
+A licença desse projeto é de [gdcodedev](https://github.com/gdcodedev)
 
+A [logo](https://www.flaticon.com/br/icone-gratis/computador-linux_1741) desse projeto de código fonte aberto possui a licença "[Flaticon](https://www.flaticon.com)" de forma gratuita para uso pessoal e comercial com atribuição. A logo foi disponibilizada pelo [Freepik](https://br.freepik.com/) através do [Flaticon](https://www.flaticon.com). 
 
-## Atalhos do Terminal Linux
+</details>
 
-* Ctrl + C " Cancela o comando atual em funcionamento.
+<details open>
+<summary>Comandos básicos para iniciantes Linux via terminal </summary>
 
-* Ctrl + Z " Pausa o comando atual, em primeiuro plano ou segundo plano.
+##### Comando utilizado para listar arquivos e diretórios
+```ruby
+> ls
+```
 
-* Ctrl + D " Faz logout da sessão atual.
+##### Comando utilizado para ir a um diretório
+```ruby
+> cd
+```
 
-* Ctrl + w " Apaga última  palavra na linha atual.
+##### Comando para listar diretórios com detalhes
+```ruby
+> ls -l
+```
 
-* Ctrl + U " Apaga a linha inteira.
+##### Comando para utilizado para ir a raiz do sistema
+```ruby
+> cd /
+``` 
 
-* Ctrl + R " Busca um comando recente.
+##### Comando utilizado para voltar a pasta anterior
+```ruby
+> cd ..
+``` 
 
-* !! "Repete o último comando".
+##### Comando para abrir o manual
+```ruby
+> man
+```
 
-* exit "Comando utilizado para fechar o terminal".
+##### Comando utilizado para voltar a pasta pessoal
+```ruby
+> cd ~
+```
 
+##### Comando para exibir o histórico de comandos no terminal
+```ruby
+> history
+```
+
+##### Comando utilizado para mover um arquivo
+```ruby
+> mv
+``` 
+
+Exemplos prático 1 - criar uma pasta chamada "Teste"
+```ruby
+> mv Testev
+``` 
+
+Exemplos prático 2 - mudar o nome da pasta criada com o nome "Teste" para "Linux"
+```ruby
+> mv Teste Linux
+``` 
+
+##### Comando utilizado para criar arquivos sem conteúdos
+```ruby
+> touch
+``` 
+
+Exemplo prático - criar um arquivo chamado teste.txt" 
+```ruby
+> touch teste.txt
+```
+
+##### Comando utilizado para efetuar cópia de arquivo
+```ruby
+> cp
+```
+
+##### Comando utilizado para limpar o terminal
+```ruby
+> clearv 
+```
+
+##### Comando específico para remover diretórios
+```ruby
+> rmdir
+```
+
+##### Comando utilizado para remover arquivos
+```ruby
+> rm
+```
+
+##### Comando utilizado para move um diretório para o diretório pessoal 
+```ruby
+> mv ~
+```
+
+##### Comando para forçar a remoção de diretório
+```ruby
+> rm -r
+```
+
+##### Comando para exibir o arquivo de ajuda
+```ruby
+> --help
+```
+
+##### Comando utilizado para sair do terminal
+```ruby
+> exit
+``` 
+
+</details>
+
+<details>
+<summary>Atalhos do Terminal Linux </summary>
   
+- `Ctrl + C` - cancela o comando atual em funcionamento.
+- `Ctrl + Z` - pausa o comando atual, em primeiuro plano ou segundo plano.
+- `Ctrl + D` - faz logout da sessão atual.
+- `Ctrl + w` - apaga última  palavra na linha atual.
+- `Ctrl + U` - apaga a linha inteira.
+- `Ctrl + R` - busca um comando recente.
+- `!!` - repete o último comando.
+- `exit` - comando utilizado para fechar o terminal.
 
-## Exercícios para fixação de conteúdo
+</details>
+
+<details>
+<summary> Exercícios para fixação de conteúdo </summary>
 
 - [x]  Abra o Terminal.
 - [x] Crie uma Pasta de nome Exercícios dentro da Pasta Documents.
@@ -61,3 +158,4 @@
 - [x] Limpe o terminal.
 - [x] Utilize o comando **exit** para sair do terminal.
 
+</details>
